@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Pratibha
+Build-Jdk: 17.0.11
+Implementation-Title: StudentCrud
+Implementation-Version: 2.3.4
+Implementation-Vendor-Id: com.example
+Created-By: Maven Integration for Eclipse
+
